@@ -5,7 +5,7 @@ import java.math.BigInteger;
 /**
  * Class used to manage String/byte/int converter
  *
- * @author Millau Julien
+ * @author naimur rahman / adam.trinity1
  *
  */
 public final class BytesUtils {
