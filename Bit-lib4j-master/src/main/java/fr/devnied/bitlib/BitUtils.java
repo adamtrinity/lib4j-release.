@@ -13,7 +13,7 @@ import java.util.Date;
 /**
  * Class to manage bit with java
  * 
- * @author Millau Julien
+ * @author naimur rahman/adam.trinity1 (my alias name)
  * 
  */
 public final class BitUtils {
